@@ -1,0 +1,8 @@
+ cd abrir pasta
+ dir abrir todos osdiretórios
+ mkdir fazer diretório/pasta
+ cd .. voltar diretório
+ cls para apagar tudo o que estiver na tela
+ del para apagar repositórios dentro da pasta
+ rmdir "" /S /Q para apagar toda a pasta
+ todos esses acima no próprio dev do sistema, no caso windows, com o comando cmb

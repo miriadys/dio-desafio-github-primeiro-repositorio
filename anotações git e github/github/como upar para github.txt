@@ -1,0 +1,3 @@
+para upar o projeto com mudanças para a plataforma github usar git status para saber se está tudo certo com o git, se houver modificações que você queira inserir no seu código no gt hub usar git add . ou git add -a
+fazendo esse passo irá salvar as mudanãs no código local da máquina, para mandar para o github será necessário usar git commit -m "" com um comentário do que foi alterado para então ser upado no github
+com esses passos feitos será necessário empurrar para o github com git origin main

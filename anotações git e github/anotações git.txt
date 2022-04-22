@@ -1,0 +1,4 @@
+usa códigos semelhantes aos comandos de usados no linux diferenciando aos que usamos no windowns
+abrir git bash em uma pasta ajuda na hora de achar o que queremos
+usar openssl sha1 "arquivo" + emter parar o hashing do arquivo, sabendo que o hash muda conforme toda e qualque alteração no arquivo e se a mudança for revertida o código hash volta a ser o mesmo
+mkdir para criar novos arquivos, mkdir sozinho cria pasta
